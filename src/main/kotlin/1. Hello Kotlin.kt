@@ -1,6 +1,6 @@
 fun main () {
-    val name = "bima"
-    val hobi = "Main game dan kadang membuat sesuatu yang 3D"
+    val name = "Adi"
+    val hobi = "Naik Motor"
 
     print("Halo nama saya   :")
     println(name)
