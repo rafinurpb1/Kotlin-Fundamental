@@ -1,5 +1,5 @@
 fun main () {
-    val name = "Adi"
+    val name = "Rafi"
     val hobi = "Naik Motor"
 
     print("Halo nama saya   :")
